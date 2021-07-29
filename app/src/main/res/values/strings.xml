@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LS11-NPDsongs</string>
+    <string name="show_all_songs_with_5_stars">Show all songs with 5 stars</string>
+    <string name="textview">TextView</string>
+</resources>
